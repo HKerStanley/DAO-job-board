@@ -123,6 +123,13 @@
       }
     },
     "navigation": {
+      "dashboard": {
+        "header": "Job Board",
+        "hiring": "RECRUITER",
+        "seeking": "SEEKER",
+        "jobs_list": " Jobs List",
+        "devs": " Devs"
+      },
       "navbar": {
         "alt_home": "Home",
         "job_board": "Job Board",
