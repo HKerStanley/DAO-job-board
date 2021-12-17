@@ -21,6 +21,14 @@
         "header": "Add Socials",
         "save_button_text": "Save Links",
         "cancel_button_text": "Cancel"
+      },
+      "select_keywords": {
+        "header": "Search Keywords",
+        "placeholder": "Write skills or positions",
+        "keyword_count": "{{count}} Selecteds Keywords",
+        "max": "(Max 10)",
+        "save_button_text": "Save Keywords",
+        "cancel_button_text": "Cancel"
       }
     },
     "create_profile": {
